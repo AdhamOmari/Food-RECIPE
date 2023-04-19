@@ -3,7 +3,7 @@ import React, { lazy, Suspense } from 'react'
 
 import 'bootstrap/dist/css/bootstrap.min.css'
 import { Routes, Route } from 'react-router-dom'
-import AppNavBar from './Component/Navbar/appNavbar'
+import AppNavBar from './Component/Navbar/AppNavBar'
 import Lodging from './Component/lodging/Lodging'
 import SingleRespies from './Page/SingleRespies/SingleRespies'
 const Recipes = lazy(() => import('./Page/Recipes/Recipes'))
