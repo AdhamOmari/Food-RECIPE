@@ -9,7 +9,7 @@
                     "id": 1,
                     "name": "Spaghetti Bolognese",
                     "description": "This classic Italian dish is made with ground beef, tomato sauce, and spaghetti noodles.",
-                    "picture": "https://example.com/spaghetti_bolognese.jpg",
+                    "picture": "https://images.eatsmarter.com/sites/default/files/styles/max_size/public/spaghetti-bolognese-original-582182.jpg",
                     "ingredients": [
                         "1 pound ground beef",
                         "8 ounces spaghetti noodles",
@@ -26,7 +26,7 @@
                     "id": 2,
                     "name": "Margherita Pizza",
                     "description": "This traditional Italian pizza is topped with tomato sauce, mozzarella cheese, and fresh basil.",
-                    "picture": "https://example.com/margherita_pizza.jpg",
+                    "picture": "https://cdn.shopify.com/s/files/1/0205/9582/articles/20220211142347-margherita-9920_ba86be55-674e-4f35-8094-2067ab41a671.jpg?crop=center&height=915&v=1644590192&width=1200",
                     "ingredients": [
                         "1 pizza crust",
                         "1 cup tomato sauce",
@@ -40,7 +40,7 @@
                     "id": 3,
                     "name": "Tiramisu",
                     "description": "This classic Italian dessert features layers of espresso-soaked ladyfingers and a light, creamy filling made with mascarpone cheese and whipped cream.",
-                    "picture": "https://example.com/tiramisu.jpg",
+                    "picture": "https://i.shgcdn.com/269063bf-d72d-41dd-b848-9b30657696e6/-/format/auto/-/preview/3000x3000/-/quality/lighter/",
                     "ingredients": [
                         "6 egg yolks",
                         "3/4 cup white sugar",
@@ -65,7 +65,7 @@
                     "id": 4,
                     "name": "Chicken Enchiladas",
                     "description": "These cheesy enchiladas are filled with seasoned chicken and topped with a spicy tomato sauce.",
-                    "picture": "https://example.com/chicken_enchiladas.jpg",
+                    "picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJl--MjYJdE2JZ62aQvCujimf-1HuZ-aX7KA&usqp=CAU",
                     "ingredients": [
                         "1 pound chicken breasts, cooked and shredded",
                         "12 corn tortillas",
@@ -82,7 +82,7 @@
                     "id": 5,
                     "name": "Guacamole",
                     "description": "This classic dip is made with mashed avocados, tomato, onion, and lime juice.",
-                    "picture": "https://example.com/guacamole.jpg",
+                    "picture": "https://www.allrecipes.com/thmb/z3kI3C-Z63q3UHqwqbr53SCU1Y4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14231_guacamole_Rita-1x1-1-6797bd34d19b4f88a210f2086ca1156f.jpg",
                     "ingredients": [
                         "2 ripe avocados, mashed",
                         "1 tomato, chopped",
@@ -103,7 +103,7 @@
                     "id": 6,
                     "name": "Kung Pao Chicken",
                     "description": "This spicy stir-fry dish features chicken, peanuts, and vegetables in a savory sauce.",
-                    "picture": "https://example.com/kung_pao_chicken.jpg",
+                    "picture": "https://images.themodernproper.com/billowy-turkey/production/posts/2019/Kung-Pao-Chicken-11.jpg?w=960&h=960&q=82&fm=jpg&fit=crop&dm=1610375147&s=c13667240a6a577a9c90de9101c300ed",
                     "ingredients": [
                         "1 pound boneless, skinless chicken breasts, cut into bite-size pieces",
                         "1 red bell pepper, sliced",
@@ -125,7 +125,7 @@
                     "id": 7,
                     "name": "Fried Rice",
                     "description": "This classic Chinese dish is made with rice, vegetables, and protein, all stir-fried together with soy sauce and other seasonings.",
-                    "picture": "https://example.com/fried_rice.jpg",
+                    "picture": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2013/9/12/0/FNK_Fried-Rice_s4x3.jpg.rend.hgtvcom.616.493.suffix/1594918949644.jpeg",
                     "ingredients": [
                         "3 cups cooked rice, chilled",
                         "1 cup frozen mixed vegetables",
@@ -150,7 +150,7 @@
                     "id": 8,
                     "name": "Burger and Fries",
                     "description": "This classic American meal features a juicy beef patty, topped with cheese and served with crispy French fries.",
-                    "picture": "https://example.com/burger_and_fries.jpg",
+                    "picture": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YnVyZ2VyJTIwZnJpZXN8ZW58MHx8MHx8&w=1000&q=80",
                     "ingredients": [
                         "1/2 pound ground beef",
                         "1 hamburger bun",
@@ -164,7 +164,7 @@
                     "id": 9,
                     "name": "Mac and Cheese",
                     "description": "This comforting dish is made with tender pasta and a creamy cheese sauce.",
-                    "picture": "https://example.com/mac_and_cheese.jpg",
+                    "picture": "https://www.budgetbytes.com/wp-content/uploads/2021/12/Homemade-Mac-and-Cheese-fork.jpg",
                     "ingredients": [
                         "8 ounces elbow macaroni",
                         "2 tablespoons butter",
@@ -187,7 +187,7 @@
                     "id": 10,
                     "name": "Chicken Tikka Masala",
                     "description": "This creamy, spicy Indian dish features tender chunks of chicken in a rich tomato-based sauce flavored with ginger, garlic, and a variety of aromatic spices.",
-                    "picture": "https://example.com/chicken_tikka_masala.jpg",
+                    "picture": "https://www.seriouseats.com/thmb/DbQHUK2yNCALBnZE-H1M2AKLkok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/chicken-tikka-masala-for-the-grill-recipe-hero-2_1-cb493f49e30140efbffec162d5f2d1d7.JPG",
                     "ingredients": [
                         "1 pound boneless, skinless chicken breast, cut into small pieces",
                         "1/2 cup plain yogurt",
@@ -215,7 +215,7 @@
                     "id": 11,
                     "name": "Palak Paneer",
                     "description": "This classic Indian dish features cubes of paneer cheese in a creamy spinach sauce flavored with ginger, garlic, and aromatic spices.",
-                    "picture": "https://example.com/palak_paneer.jpg",
+                    "picture": "https://www.foodandwine.com/thmb/QqinPDSGc2krV8XDgZWwoxVgi5s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/palak-paneer-with-pressed-ricotta-FT-RECIPE0322-4c6f0e411c6444bd81152cb2d078f2bd.jpg",
                     "ingredients": [
                         "1/2 pound paneer cheese, cut into cubes",
                         "2 tablespoons vegetable oil",
@@ -238,7 +238,7 @@
                     "id": 12,
                     "name": "Shawarma Beef",
                     "description": "This delicious Arabic dish features seasoned grilled beef pieces stuffed inside pita bread with vegetables and flavorful spices.",
-                    "picture": "https://example.com/shawarma_beef.jpg",
+                    "picture": "https://www.masala.tv/wp-content/uploads/2021/06/Beef-Shawarmaa.jpg",
                     "ingredients": [
                         "1 pound beef, thinly sliced",
                         "2 tablespoons olive oil",
@@ -262,7 +262,7 @@
                     "id": 13,
                     "name": "Hummus",
                     "description": "This creamy dip made from chickpeas, tahini, lemon juice, and garlic is a staple in Arabic cuisine and is perfect for dipping pita bread or vegetables.",
-                    "picture": "https://example.com/hummus.jpg",
+                    "picture": "https://cookingwithayeh.com/wp-content/uploads/2020/10/Best-Hummus.jpg",
                     "ingredients": [
                         "1 can chickpeas, drained",
                         "3 tablespoons tahini",

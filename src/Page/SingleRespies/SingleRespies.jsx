@@ -1,26 +1,26 @@
 import React from 'react'
 import { Card, ListGroup } from 'react-bootstrap'
-import { useLocation } from 'react-router-dom'
+import { Link } from 'react-router-dom'
 
-const SingleRespies = props => {
-  const recipe = props
-
-  console.log(recipe)
+const SingleRespies = ({ category }) => {
+  console.log(category.id)
 
   return (
-    <div>
-      <h1>{recipe?.name}</h1>
-      <img src={recipe?.category_picture} alt={recipe?.name} />
-      <h2>Ingredients</h2>
-      <ListGroup>
-        {recipe?.ingredients?.map(ingredient => (
-          <ListGroup.Item key={ingredient}>{ingredient}</ListGroup.Item>
-        ))}
-      </ListGroup>
-      <h2>Instructions</h2>
-      <Card>
-        <Card.Body>{recipe?.instructions}</Card.Body>
-      </Card>
+    <div className='col-md-6 col-lg-4 mb-3'>
+      <Link
+        to={{ pathname: `/detail/${category.id}`, state: { id: category.id } }}
+      >
+        <div className='card'>
+          <img
+            src={category.category_picture}
+            alt={`${category.name} category`}
+            className='card-img-top'
+          />
+          <div className='card-body'>
+            <h2 className='card-title'> {category.name}</h2>
+          </div>
+        </div>
+      </Link>
     </div>
   )
 }

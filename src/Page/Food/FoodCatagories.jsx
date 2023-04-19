@@ -4,10 +4,10 @@ import { useEffect } from 'react'
 import { fetchCategories } from '../../../Redux/FechData/fetchAction'
 import Lodging from '../../Component/lodging/Lodging'
 import { Link, useNavigate } from 'react-router-dom'
+import SingleRespies from '../SingleRespies/SingleRespies'
 
 const FoodCatagories = () => {
   const dispatch = useDispatch()
-  const navigate = useNavigate()
 
   const [delayedRendering, setDelayedRendering] = useState(true)
   const { categories, error, loading } = useSelector(
@@ -34,28 +34,7 @@ const FoodCatagories = () => {
     <div className='container'>
       <div className='row'>
         {categories.map(category => (
-          <div
-            key={`category-${category.id}`}
-            className='col-md-6 col-lg-4 mb-3'
-          >
-            <Link
-              to={{
-                pathname: `/Single/${category.id}`,
-                category: category
-              }}
-            >
-              <div className='card'>
-                <img
-                  src={category.category_picture}
-                  alt={`${category.name} category`}
-                  className='card-img-top'
-                />
-                <div className='card-body'>
-                  <h2 className='card-title'> {category.name}</h2>
-                </div>
-              </div>
-            </Link>
-          </div>
+          <SingleRespies key={`category-${category.id}`} category={category} />
         ))}
       </div>
     </div>

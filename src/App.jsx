@@ -6,6 +6,7 @@ import { Routes, Route } from 'react-router-dom'
 import AppNavBar from './Component/Navbar/AppNavBar'
 import Lodging from './Component/lodging/Lodging'
 import SingleRespies from './Page/SingleRespies/SingleRespies'
+import RespiesDetails from './Page/RespiesDetails/RespiesDetelals'
 const Recipes = lazy(() => import('./Page/Recipes/Recipes'))
 const NotFound = lazy(() => import('./Component/NotFond/NotFound'))
 const FoodCatagories = lazy(() => import('./Page/Food/FoodCatagories'))
@@ -27,7 +28,8 @@ function App () {
 
           <Route path='/About' element={<About />} />
           <Route path='/Recipes' element={<Recipes />} />
-          <Route path='/Single/:id' element={<SingleRespies />} />
+          <Route path='/Single' element={<SingleRespies />} />
+          <Route path='/detail/:id' element={<RespiesDetails />} />
           <Route path='*' element={<NotFound />} />
         </Routes>
       </Suspense>
