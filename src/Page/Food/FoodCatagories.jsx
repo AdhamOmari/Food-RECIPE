@@ -51,7 +51,7 @@ const FoodCatagories = () => {
                   className='card-img-top'
                 />
                 <div className='card-body'>
-                  <h2 className='card-title'>{category.name}</h2>
+                  <h2 className='card-title'> Name {category.name}</h2>
                 </div>
               </div>
             </Link>
