@@ -9,6 +9,7 @@ import SingleRespies from './Page/SingleRespies/SingleRespies'
 const Recipes = lazy(() => import('./Page/Recipes/Recipes'))
 const NotFound = lazy(() => import('./Component/NotFond/NotFound'))
 const FoodCatagories = lazy(() => import('./Page/Food/FoodCatagories'))
+
 const About = lazy(() => import('./Page/About/About'))
 const BackgroundVideo = lazy(() =>
   import('./Component/BackgroundVideo/BackgroundVideo ')
