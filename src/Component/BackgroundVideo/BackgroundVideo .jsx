@@ -6,7 +6,7 @@ const BackgroundVideo = () => {
     <div className='background-video'>
       <video autoPlay loop muted className='video'>
         <source
-          src='https://www.shutterstock.com/video/clip-1065498967-stir-fry-noodles-vegetables-flames-super-slow'
+          src='https://www.shutterstock.com/shutterstock/videos/1086192224/preview/stock-footage-super-slow-motion-shot-of-wok-pan-with-flying-ingredients-in-the-air-and-fire-flames-filmed-on.webm'
           type='video/mp4'
         />
       </video>
