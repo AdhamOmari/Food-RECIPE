@@ -1,0 +1,82 @@
+.logo {
+  text-decoration: none;
+  color: #0d6efd;
+  display: inline-block;
+  position: relative;
+  font-size: 27px;
+  font-weight: bolder;
+}
+
+.nav-link {
+  color: #0d6efd;
+  font-weight: bold;
+}
+
+.logo:hover {
+  color: #0d6efd;
+}
+
+.logo span {
+  display: inline-block;
+  position: relative;
+  animation: move-characters 2s steps(12) infinite;
+  color: #0d6efd;
+}
+
+.logo span:nth-child(1) {
+  animation-delay: 0s;
+}
+
+.logo span:nth-child(2) {
+  animation-delay: 0.05s;
+}
+
+.logo span:nth-child(3) {
+  animation-delay: 0.1s;
+}
+
+.logo span:nth-child(4) {
+  animation-delay: 0.15s;
+}
+
+.logo span:nth-child(5) {
+  animation-delay: 0.2s;
+}
+
+.logo span:nth-child(6) {
+  animation-delay: 0.25s;
+}
+
+.logo span:nth-child(7) {
+  animation-delay: 0.3s;
+}
+
+.logo span:nth-child(8) {
+  animation-delay: 0.35s;
+}
+
+.logo span:nth-child(9) {
+  animation-delay: 0.4s;
+}
+
+.logo span:nth-child(10) {
+  animation-delay: 0.45s;
+}
+
+.logo span:nth-child(11) {
+  animation-delay: 0.5s;
+}
+
+.logo span:nth-child(12) {
+  animation-delay: 0.55s;
+}
+
+@keyframes move-characters {
+  from {
+    transform: translateX(0);
+  }
+
+  to {
+    transform: translateX(10px);
+  }
+}

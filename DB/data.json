@@ -1,0 +1,282 @@
+{
+    "categories": [
+        {
+            "id": 1,
+            "name": "Italian Food",
+            "category_picture": "data:image/jpeg;base64,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",
+            "recipes": [
+                {
+                    "id": 1,
+                    "name": "Spaghetti Bolognese",
+                    "description": "This classic Italian dish is made with ground beef, tomato sauce, and spaghetti noodles.",
+                    "picture": "https://example.com/spaghetti_bolognese.jpg",
+                    "ingredients": [
+                        "1 pound ground beef",
+                        "8 ounces spaghetti noodles",
+                        "1 can tomato sauce",
+                        "2 cloves garlic, minced",
+                        "1 onion, chopped",
+                        "1 teaspoon salt",
+                        "1/2 teaspoon black pepper",
+                        "2 tablespoons olive oil"
+                    ],
+                    "comments": []
+                },
+                {
+                    "id": 2,
+                    "name": "Margherita Pizza",
+                    "description": "This traditional Italian pizza is topped with tomato sauce, mozzarella cheese, and fresh basil.",
+                    "picture": "https://example.com/margherita_pizza.jpg",
+                    "ingredients": [
+                        "1 pizza crust",
+                        "1 cup tomato sauce",
+                        "2 cups shredded mozzarella cheese",
+                        "1/4 cup fresh basil leaves",
+                        "1 tablespoon olive oil"
+                    ],
+                    "comments": []
+                },
+                {
+                    "id": 3,
+                    "name": "Tiramisu",
+                    "description": "This classic Italian dessert features layers of espresso-soaked ladyfingers and a light, creamy filling made with mascarpone cheese and whipped cream.",
+                    "picture": "https://example.com/tiramisu.jpg",
+                    "ingredients": [
+                        "6 egg yolks",
+                        "3/4 cup white sugar",
+                        "2/3 cup milk",
+                        "1 1/4 cups heavy cream",
+                        "1/2 teaspoon vanilla extract",
+                        "8 ounces mascarpone cheese",
+                        "1/4 cup strong brewed coffee or espresso",
+                        "1 tablespoon rum",
+                        "24 ladyfingers"
+                    ],
+                    "comments": []
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Mexican Food",
+            "category_picture": "https://images.immediate.co.uk/production/volatile/sites/30/2022/10/Pork-carnitas-b94893e.jpg?quality=90&resize=556,505",
+            "recipes": [
+                {
+                    "id": 4,
+                    "name": "Chicken Enchiladas",
+                    "description": "These cheesy enchiladas are filled with seasoned chicken and topped with a spicy tomato sauce.",
+                    "picture": "https://example.com/chicken_enchiladas.jpg",
+                    "ingredients": [
+                        "1 pound chicken breasts, cooked and shredded",
+                        "12 corn tortillas",
+                        "2 cups shredded cheddar cheese",
+                        "1 can diced tomatoes with green chilies",
+                        "1 tablespoon chili powder",
+                        "1 teaspoon cumin",
+                        "1/2 teaspoon garlic powder",
+                        "1/4 teaspoon salt"
+                    ],
+                    "comments": []
+                },
+                {
+                    "id": 5,
+                    "name": "Guacamole",
+                    "description": "This classic dip is made with mashed avocados, tomato, onion, and lime juice.",
+                    "picture": "https://example.com/guacamole.jpg",
+                    "ingredients": [
+                        "2 ripe avocados, mashed",
+                        "1 tomato, chopped",
+                        "1/4 cup chopped onion",
+                        "1 lime, juiced",
+                        "1/4 teaspoon salt"
+                    ],
+                    "comments": []
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "Chinese Food",
+            "category_picture": "https://images.chinahighlights.com/allpicture/2021/12/71879439c9ef4d0da835efb6_cut_750x400_39.jpg",
+            "recipes": [
+                {
+                    "id": 6,
+                    "name": "Kung Pao Chicken",
+                    "description": "This spicy stir-fry dish features chicken, peanuts, and vegetables in a savory sauce.",
+                    "picture": "https://example.com/kung_pao_chicken.jpg",
+                    "ingredients": [
+                        "1 pound boneless, skinless chicken breasts, cut into bite-size pieces",
+                        "1 red bell pepper, sliced",
+                        "1 green bell pepper, sliced",
+                        "1/2 cup roasted peanuts",
+                        "2 tablespoons vegetable oil",
+                        "3 cloves garlic, minced",
+                        "1 teaspoon ginger, minced",
+                        "1/4 teaspoon red pepper flakes",
+                        "1/4 cup soy sauce",
+                        "2 tablespoons rice vinegar",
+                        "2 tablespoons brown sugar",
+                        "1 tablespoon cornstarch",
+                        "1/4 cup green onions, chopped"
+                    ],
+                    "comments": []
+                },
+                {
+                    "id": 7,
+                    "name": "Fried Rice",
+                    "description": "This classic Chinese dish is made with rice, vegetables, and protein, all stir-fried together with soy sauce and other seasonings.",
+                    "picture": "https://example.com/fried_rice.jpg",
+                    "ingredients": [
+                        "3 cups cooked rice, chilled",
+                        "1 cup frozen mixed vegetables",
+                        "1/2 cup cooked shrimp",
+                        "2 eggs, beaten",
+                        "2 tablespoons vegetable oil",
+                        "1 tablespoon soy sauce",
+                        "1/4 teaspoon garlic powder",
+                        "1/4 teaspoon onion powder",
+                        "1/4 teaspoon black pepper"
+                    ],
+                    "comments": []
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "American Food",
+            "category_picture": "https://d2lswn7b0fl4u2.cloudfront.net/photos/pg-american-dishes-1652886459.jpg",
+            "recipes": [
+                {
+                    "id": 8,
+                    "name": "Burger and Fries",
+                    "description": "This classic American meal features a juicy beef patty, topped with cheese and served with crispy French fries.",
+                    "picture": "https://example.com/burger_and_fries.jpg",
+                    "ingredients": [
+                        "1/2 pound ground beef",
+                        "1 hamburger bun",
+                        "1 slice cheddar cheese",
+                        "1/2 cup frozen French fries",
+                        "1 tablespoon vegetable oil"
+                    ],
+                    "comments": []
+                },
+                {
+                    "id": 9,
+                    "name": "Mac and Cheese",
+                    "description": "This comforting dish is made with tender pasta and a creamy cheese sauce.",
+                    "picture": "https://example.com/mac_and_cheese.jpg",
+                    "ingredients": [
+                        "8 ounces elbow macaroni",
+                        "2 tablespoons butter",
+                        "2 tablespoons all-purpose flour",
+                        "2 cups milk",
+                        "2 cups shredded cheddar cheese",
+                        "1/4 teaspoon salt",
+                        "1/4 teaspoon black pepper"
+                    ],
+                    "comments": []
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Indian Food",
+            "category_picture": "https://i0.wp.com/post.healthline.com/wp-content/uploads/2020/07/thali-indian-1296x728-header.jpg?w=1155&h=1528",
+            "recipes": [
+                {
+                    "id": 10,
+                    "name": "Chicken Tikka Masala",
+                    "description": "This creamy, spicy Indian dish features tender chunks of chicken in a rich tomato-based sauce flavored with ginger, garlic, and a variety of aromatic spices.",
+                    "picture": "https://example.com/chicken_tikka_masala.jpg",
+                    "ingredients": [
+                        "1 pound boneless, skinless chicken breast, cut into small pieces",
+                        "1/2 cup plain yogurt",
+                        "2 cloves garlic, minced",
+                        "1 tablespoon grated fresh ginger",
+                        "1 teaspoon garam masala",
+                        "1/2 teaspoon ground turmeric",
+                        "1/4 teaspoon cayenne pepper",
+                        "1/4 teaspoon salt",
+                        "2 tablespoons vegetable oil",
+                        "1 onion, chopped",
+                        "2 cloves garlic, minced",
+                        "1 tablespoon grated fresh ginger",
+                        "1 teaspoon ground cumin",
+                        "1 teaspoon ground coriander",
+                        "1/2 teaspoon paprika",
+                        "1/4 teaspoon cayenne pepper",
+                        "1 can crushed tomatoes",
+                        "1/2 cup heavy cream",
+                        "1/4 cup chopped fresh cilantro"
+                    ],
+                    "comments": []
+                },
+                {
+                    "id": 11,
+                    "name": "Palak Paneer",
+                    "description": "This classic Indian dish features cubes of paneer cheese in a creamy spinach sauce flavored with ginger, garlic, and aromatic spices.",
+                    "picture": "https://example.com/palak_paneer.jpg",
+                    "ingredients": [
+                        "1/2 pound paneer cheese, cut into cubes",
+                        "2 tablespoons vegetable oil",
+                        "1 onion, chopped",
+                        "2 cloves garlic, minced",
+                        "1 tablespoon grated fresh ginger",
+                        "1/2 teaspoon ground cumin",
+                        "1/2 teaspoon ground"
+                    ],
+                    "comments": []
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Arabic Food",
+            "category_picture": "https://www.bbcgoodfoodme.com/assets/var/app/current/features/345/original/healthy-Arabic-food.png",
+            "recipes": [
+                {
+                    "id": 12,
+                    "name": "Shawarma Beef",
+                    "description": "This delicious Arabic dish features seasoned grilled beef pieces stuffed inside pita bread with vegetables and flavorful spices.",
+                    "picture": "https://example.com/shawarma_beef.jpg",
+                    "ingredients": [
+                        "1 pound beef, thinly sliced",
+                        "2 tablespoons olive oil",
+                        "1 onion, chopped",
+                        "2 cloves garlic, minced",
+                        "1 tablespoon ground cumin",
+                        "1 tablespoon paprika",
+                        "1/2 teaspoon ground cinnamon",
+                        "1/4 teaspoon ground cloves",
+                        "1/4 teaspoon ground cardamom",
+                        "1/2 teaspoon salt",
+                        "Pita bread",
+                        "Tomatoes, sliced",
+                        "Cucumbers, sliced",
+                        "Pickles",
+                        "Tahini sauce"
+                    ],
+                    "comments": []
+                },
+                {
+                    "id": 13,
+                    "name": "Hummus",
+                    "description": "This creamy dip made from chickpeas, tahini, lemon juice, and garlic is a staple in Arabic cuisine and is perfect for dipping pita bread or vegetables.",
+                    "picture": "https://example.com/hummus.jpg",
+                    "ingredients": [
+                        "1 can chickpeas, drained",
+                        "3 tablespoons tahini",
+                        "2 cloves garlic, minced",
+                        "2 tablespoons lemon juice",
+                        "1/4 cup olive oil",
+                        "1/2 teaspoon ground cumin",
+                        "1/2 teaspoon salt",
+                        "Paprika, for garnish",
+                        "Olive oil, for garnish"
+                    ],
+                    "comments": []
+                }
+            ]
+        }
+    ]
+}
