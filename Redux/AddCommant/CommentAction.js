@@ -7,6 +7,8 @@ import {
     FETCH_COMMENTS_FAILURE,
 } from './CommentConst'
 
+
+
 export const addComment = (categoryId, recipeId, comment) => async dispatch => {
     dispatch({ type: ADD_COMMENT_REQUEST })
 
@@ -17,17 +19,17 @@ export const addComment = (categoryId, recipeId, comment) => async dispatch => {
                 'Content-Type': 'application/json'
             },
             body: JSON.stringify({ comment: comment })
-        })
-        const data = await response.json()
+        });
+        const data = await response.json();
 
         dispatch({
             type: ADD_COMMENT_SUCCESS,
             payload: data,
-        })
+        });
     } catch (error) {
         dispatch({
             type: ADD_COMMENT_FAILURE,
-            payload: error.message,
-        })
+            payload: error,
+        });
     }
 }

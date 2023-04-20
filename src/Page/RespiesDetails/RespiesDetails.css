@@ -1,8 +1,11 @@
 .card2 {
-    left: 10%;
-    margin: 90px;
-    top: 60px;
-    font-weight: bold;
+
+    position: relative;
+    left: 20%;
+
+    margin: 0px !important;
+    width: 200px;
+    border-radius: 40px;
 }
 
 .Form {
@@ -11,5 +14,19 @@
 }
 
 .comments {
-    margin-top: 70px;
+    margin-top: 90px;
+}
+
+.card-group {
+    display: flex;
+    flex-direction: row;
+    gap: 0px;
+    flex-wrap: wrap;
+    position: relative;
+    margin-top: 6%;
+    margin: 120px auto;
+    align-items: flex-start;
+    right: 0px;
+    gap: 20px;
+    max-width: 1213px;
 }

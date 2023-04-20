@@ -21,9 +21,9 @@ const RespiesDetails = () => {
   }
 
   useEffect(() => {
-    fetch('http://localhost:8000/categories/2')
+    fetch('http://localhost:8000/categories/2/recipes/0')
       .then(response => response.json())
-      .then(data => console.log(data))
+      .then(data => console.log(data, 'data'))
       .catch(error => console.error(error))
   }, [])
   return (
